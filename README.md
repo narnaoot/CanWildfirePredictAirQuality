@@ -7,6 +7,11 @@
 3. How about if we add wind data?
 4. How about if we add information on the distance from San Francisco?
 
+## Results
+
+None of the questions were successfully answered.
+
+
 ## Summary of Jupyter Notebooks
 
 * step_1_load_air_quality:  read in csvs for air quality, 1 per year 2001 to 2015.  load them into database table aqi_data
