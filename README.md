@@ -1,8 +1,11 @@
 # Project Report 
 
-## Project Question
+## Project Questions
 
-Given the total number of acres burned by a fire in California, can we predict the air quality in SF on the date that it is contained?
+1. Given the total number of acres burned by a fire in California, can we predict the air quality in SF on the date that it is contained?
+2. How about if we group the data by month?
+3. How about if we add wind data?
+4. How about if we add information on the distance from San Francisco?
 
 ## Summary of Jupyter Notebooks
 
