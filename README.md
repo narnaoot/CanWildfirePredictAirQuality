@@ -2,10 +2,10 @@
 
 ## Project Questions
 
-1.  Given the total number of acres burned by a fire in California, and data on wind conditions, can we predict the air quality in SF on the date that it is contained?
-2. How about if we group the data by month?
-3. How about if we add wind data?
-4. How about if we add information on the distance from San Francisco?
+1. Given the total number of acres burned by a fire in California, and data on wind conditions, can we predict the air quality in SF on the date that it is contained?
+2. Given the total acres burned by fires each month in California, and data on wind conditions, can we predict the air quality in SF for the month?
+3. Given the number of acres burned each day by fires in California, binned by size, and wind data, can we predict the air quality in SF on the date that they are contained?
+4. Given the total number of acres burned by fires in California each month, binned by distance from SF, can we predict the air quality in SF on the date that they are contained?
 
 ## Results
 
