@@ -10,6 +10,7 @@
 ## Results
 
 None of the questions were successfully answered.
+![xkcd](/images/negative_results.png)
 
 
 ## Summary of Jupyter Notebooks
