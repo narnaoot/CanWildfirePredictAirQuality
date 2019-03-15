@@ -1,3 +1,5 @@
+![xkcd](/images/negative_results.png)
+
 # Project Report 
 
 ## Project Questions
@@ -9,8 +11,9 @@
 
 ## Results
 
-None of the questions were successfully answered.
-![xkcd](/images/negative_results.png)
+None of the questions were successfully answered.  Relative scores are:
+![relative scores](/images/Results.png)
+
 
 
 ## Summary of Jupyter Notebooks
