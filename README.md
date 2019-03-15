@@ -27,6 +27,12 @@ None of the questions were successfully answered.
 * data_prep_step_9_group_by_day_total_acres_plus_wind: reads from binned_by_acres, groups by date (giving sum of acres for fires contained that day), adds air quality info, and wind info, then writes to final_daily_total_plus_wind
 * data_prep_step_10_group_by_day_binned_acres:  reads from binned_by_acres, groups by date and bins (ie total acres per bin per day), adds air-quality and wind data, then writes to final_binned_daily_data
 
+#### Machine learning notebooks used linear regression, k neighbors, gradient boosting, random forests, and unsupervised learning on eac set of data
+* question_1_predicting_with_total_acres_per_day_plus_wind: machine learning with total acres from fires contained per day, air quality for that day, and wind info for that day
+* question_2_predicting_with_monthly_total_acres_plus_wind: machine learning with total acres from fires contained per month, air quality max min and mean for the month, and max for different wind factors that month
+* question_3_predicting_with_binned_acres_per_day_plus_wind: machine learning with total acres from fires in each bin contained per day, air quality for the day, and wind factors for the day
+* question_4_predicting_with_monthly_binned_data: machine learning with total acres from fires in each bin contained in a month, and air quality max min and mean for that month
+
 ## Description of Database Tables
 * aqi_data: air quality info for the Bay Area 2001 to 2015 , 1 row per day
 * wildfire_data: one row per fire for California fires
